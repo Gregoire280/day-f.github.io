@@ -48,14 +48,14 @@ Les trois parties du présentent le code.
 La partie du bas presente le resultat de ce code.
 
 La partie haute présente, de guauche à droite, les langages suivants : 
-* HTML dans la 1ère fenêtre, 
-* CSS dans la seconde fenêtre, 
+* HTML dans la 1ère fenêtre. 
+* CSS dans la seconde fenêtre. 
 * JS dans la 3ème fenêtre.
 
-Il suffit de coller le HTML dans le fichier index.html là où l'on souhaute mettre l'animation. Dans notre exemple à de la ligne ??-??.
+Il suffit de coller le HTML dans le fichier index.html là où l'on souhaute mettre l'animation. Dans notre exemple à de la ligne 229-231.
 <br>
-Le CSS dans le fichier CSS (lignes ??-??). Nous avons modifié les lignes ??, ?? et ?? pour que le composant s'adapte au site.
+Le CSS dans le fichier CSS (lignes 190-300). Nous avons modifié les lignes 195, 204 pour que le composant s'adapte au site.
 
 <br>
-Le JS dans à la fin du fichier index.html dans une balise <script>...</script> (lignes ??-??)
+Le JS dans à la fin du fichier index.html dans une balise <script>...</script> (lignes 277-320)
 
