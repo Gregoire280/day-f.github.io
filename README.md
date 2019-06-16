@@ -15,11 +15,17 @@ Site permettant au developpeurs de partager librement du code HTML/CSS/JS. Atten
 <br>
 Dans le cadre de ce court nous utiliserons code pen pour intégrer des animations sur notre site.
 Pour l'exemple nous allons intégrer le codepen suivant: https://codepen.io/Joz84/pen/YoqNKe
-<br>
+
 La fenêtre est divisée en 4 parties.
-
+<br>
 Les trois parties du présentent le code.
-
+<br>
 La partie du bas presente le resultat de ce code.
+
+La partie haute présente, de guauche à droite, les langages suivants : 
+* HTML dans la 1ère fenêtre, 
+* CSS dans la seconde fenêtre, 
+* JS dans la 3ème fenêtre.
+
 
 
