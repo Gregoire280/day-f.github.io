@@ -1,6 +1,6 @@
 # Jour 6
 
-## <a href="https://joz84.github.io/day-f.github.io/" target="_blanck">Demo</a>
+## Lien vers la <a href="https://joz84.github.io/day-f.github.io/" target="_blanck">demo</a>
 
 ## 5 utilisations de la balise a
 
